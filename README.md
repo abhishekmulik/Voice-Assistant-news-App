@@ -1,3 +1,8 @@
+# Here is the demo of the project.
+The web application is a react based news app built using [alan AI](https://alan.app/docs/).
+
+https://user-images.githubusercontent.com/66154400/216806494-4ff63c28-2e96-489f-9b50-eb0664ab45bc.mp4
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
